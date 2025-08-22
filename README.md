@@ -2,13 +2,13 @@
 <h1 align="center" style="background: linear-gradient(90deg, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent;">
   Hey 👋, I'm Mathew Mendoza
 </h1>
-<h3 align="center">💻 JavaScript Developer | MERN Stack Enthusiast 🚀</h3>
+<h3 align="center">💻 Full Stack Developer 🚀</h3>
 
 ---
 
 ## 🚀 About Me  
-- 🔹 Full-stack developer with strong expertise in **JavaScript, TypeScript, React, Node.js, and Express**  
-- 🔹 Experienced in building **scalable web applications** with **MongoDB, MySQL, and REST APIs**  
+- 🔹 Full-stack developer with strong expertise in **JavaScript, TypeScript, React, Node.js, Laravel, and Express**  
+- 🔹 Experienced in building **scalable web applications** with **MongoDB, MySQL, Laravel, and REST APIs**  
 - 🔹 Skilled in **modern UI/UX development** using **TailwindCSS, Bootstrap, and Figma**  
 - 🔹 Passionate about solving real-world problems with clean, efficient, and maintainable code  
 - 🔹 Open to **collaborations, freelance projects, and full-time opportunities** in web development  
@@ -17,9 +17,6 @@
 
 ## 🌐 Connect With Me  
 <p align="left">
-  <a href="https://fb.com/mat.mendoza.3910" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
   <a href="mailto:mathewmendoza0512@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -36,6 +33,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
