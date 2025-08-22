@@ -49,12 +49,12 @@
 
 ## 📊 GitHub Stats & Contributions  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mathewmendoza&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mat0512&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathewmendoza&theme=radical" alt="GitHub Streak" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mathewmendoza&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mat0512&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
